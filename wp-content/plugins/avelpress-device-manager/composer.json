@@ -1,0 +1,12 @@
+{
+  "name": "avelpress/device-manager",
+  "description": "Avelpress 設備管理系統 (Laravel-style MVC for WordPress)",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Avelpress\\DeviceManager\\": "src/"
+    }
+  },
+  "require": {}
+}
